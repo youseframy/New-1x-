@@ -1,25 +1,25 @@
 {
-    "name": "حسـ313ـو",
-    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس الجوكر",
+    "name": "star @ggqgv",
+    "description": "اهلا بكم في تنصيب النشر التلقائي الخاص بسورس ليبيا توب",
     "logo": "",
     "stack": "container",
-    "repository": "https://t.me/jepthon",
+    "repository": "https://t.me/gggqgg",
     "keywords": ["python", "chatbot", "telegrambot"],
-    "website": "https://t.me/jepthon",
+    "website": "https://t.me/gggqgg",
     "env": {
         "SESSION": {
-            "description": "ضع كود التيرمكس الذي استخرجته من بوت الجوكر",
+            "description": "ضع كود التيرمكس الذي استخرجته من بوت ليبيا",
             "value": "",
             "required": true
         },
         "APP_ID": {
-            "description": "ضع ابب ايدي المكون من 6 ارقام",
-            "value": "",
+            "description": "ضع ابي ايدي المكون من 6 ارقام",
+            "value": "27455984",
             "required": true
         },
         "APP_HASH": {
             "description": "ضع ابب هاش المكون من ارقام وحروف",
-            "value": "",
+            "value": "62d5f68ce2e9189636967120220f5755",
             "required": true
         }
     },
